@@ -1,0 +1,6 @@
+{
+  "name": "VNPT Binh My",
+  "description": "Cổng đăng ký lắp đặt cáp quang tốc độ cao, MyTV 4K và Camera AI thông minh VNPT tại khu vực Bình Mỹ, Củ Chi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
